@@ -68,13 +68,12 @@ ul {
     color: white;
 }
 
-
-/* .title-image {
+.title-image {
     width: 60%;
-    transform: translateY(-5rem);
+    transform: rotate(25deg) translateY(-5rem);
     position: absolute;
     right: 30%;
-} */
+}
 
 
 /* Head */
