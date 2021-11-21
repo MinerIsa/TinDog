@@ -70,7 +70,7 @@ ul {
 
 .title-image {
     width: 60%;
-    transform: rotate(25deg) translateY(-5rem);
+    transform: translateY(-5rem);
     position: absolute;
     right: 30%;
 }
